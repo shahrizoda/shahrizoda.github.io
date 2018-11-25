@@ -1,0 +1,24 @@
+p
+{
+    color: black;
+    font-family: 'Broadway', serif; 
+    font-size: 24px;
+}
+pre
+{
+    color: red;
+    font-family: 'Footlight MT Light', serif; 
+    font-size: 18px;
+}
+#moviess
+{
+    background-image: url(222.jpg);
+}
+#index2
+{
+    text-align: center;
+    background-image: url(33.jpeg);
+    color: black;
+    font-family: 'Algerian', serif; 
+    font-size: 24px;
+}
